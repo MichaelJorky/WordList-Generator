@@ -39,7 +39,7 @@ Wordlist generator adalah alat netral. Penggunaannya tergantung pada tujuan peng
 
 1. Download WordList Generator via: https://codeload.github.com/MichaelJorky/WordList-Generator/zip/refs/heads/main
 2. Word Count: adalah jumlah kata yang ingin di Generate.
-3. Character Length: adalah panjang karakter, min 1 maks 12.
+3. Character Length: adalah panjang karakter, min 1 maks 15.
 4. UpperCase: jika UpperCase di ceklis maka "ABCDEFGHIJKLMNOPQRSTUVWXYZ" akan dimasukan dalam daftar Generate.
 5. LowerCase: jika LowerCase di ceklis maka "abcdefghijklmnopqrstuvwxyz" akan dimasukan dalam daftar Generate.
 6. Digits: jika Digits di ceklis maka "0123456789" akan dimasukan dalam daftar Generate.
