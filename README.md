@@ -37,7 +37,7 @@ Wordlist generator adalah alat netral. Penggunaannya tergantung pada tujuan peng
 #
 <b>[ Cara Menggunakan WordList Generator ]</b>
 
-1. Download WordList Generator via: https://codeload.github.com/MichaelJorky/Indihome-Hash-Decrypter-Generator/zip/refs/heads/main
+1. Download WordList Generator via: https://codeload.github.com/MichaelJorky/WordList-Generator/zip/refs/heads/main
 2. Word Count: adalah jumlah kata yang ingin di Generate.
 3. Character Length: adalah panjang karakter, min 1 maks 12.
 4. UpperCase: jika UpperCase di ceklis maka "ABCDEFGHIJKLMNOPQRSTUVWXYZ" akan dimasukan dalam daftar Generate.
