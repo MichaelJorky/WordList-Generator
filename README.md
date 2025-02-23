@@ -44,4 +44,4 @@ Wordlist generator adalah alat netral. Penggunaannya tergantung pada tujuan peng
 5. LowerCase: jika LowerCase di ceklis maka "abcdefghijklmnopqrstuvwxyz" akan dimasukan dalam daftar Generate.
 6. Digits: jika Digits di ceklis maka "0123456789" akan dimasukan dalam daftar Generate.
 7. Symbol: jika Symbol di ceklis maka "!@#$%^&*()_+" akan dimasukan dalam daftar Generate.
-8. Klik "Generate!" untuk memulai menghasilkan WordList.
+8. Klik "Generate Word!" untuk memulai menghasilkan WordList.
