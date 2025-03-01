@@ -34,6 +34,8 @@ Wordlist generator adalah alat netral. Penggunaannya tergantung pada tujuan peng
 
 ~ (v1.0.0.1) Minggu 23 Februari 2025 - First Release WordList Generator by Xtreak
 
+~ (v1.0.0.2) Minggu 2 Maret 2025 - Add DateTime Generator, Add Filter WPA2, Fix Bug TDictioanry
+
 #
 <b>[ Cara Menggunakan WordList Generator ]</b>
 
@@ -43,5 +45,6 @@ Wordlist generator adalah alat netral. Penggunaannya tergantung pada tujuan peng
 4. UpperCase: jika UpperCase di ceklis maka "ABCDEFGHIJKLMNOPQRSTUVWXYZ" akan dimasukan dalam daftar Generate.
 5. LowerCase: jika LowerCase di ceklis maka "abcdefghijklmnopqrstuvwxyz" akan dimasukan dalam daftar Generate.
 6. Digits: jika Digits di ceklis maka "0123456789" akan dimasukan dalam daftar Generate.
-7. Symbol: jika Symbol di ceklis maka "!@#$%^&*()_+" akan dimasukan dalam daftar Generate.
-8. Klik "Generate Word!" untuk memulai menghasilkan WordList.
+7. Symbol: jika Symbol di ceklis maka "@#$_-.,!?&*()[]{}<>%^+=|\/~" akan dimasukan dalam daftar Generate.
+8. DateTime: jika DateTime di ceklist maka akan menghasilkan kombinasi tanggal, bulan (number/text), tahun
+9. Klik "Generate Word!" untuk memulai menghasilkan WordList.
