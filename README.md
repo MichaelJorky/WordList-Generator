@@ -32,10 +32,6 @@
 ### Catatan:
 Wordlist generator adalah alat netral. Penggunaannya tergantung pada tujuan pengguna — penting untuk mematuhi hukum dan etika keamanan siber.
 
-~ (v1.0.0.1) Minggu 23 Februari 2025 - First Release WordList Generator by Xtreak
-
-~ (v1.0.0.2) Minggu 2 Maret 2025 - Add DateTime Generator, Add Filter WPA2, Fix Bug TDictionary
-
 #
 <b>[ Cara Menggunakan WordList Generator ]</b>
 
